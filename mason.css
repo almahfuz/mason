@@ -433,70 +433,68 @@
 .text-dimgray {
     color: DimGray;
 }
-
 .bg-yellow{
-    color: yellow;
+    background-color: yellow;
 }
 .bg-red{
-    color: Red;
+    background-color: Red;
 }
 .bg-salmon{
-    color: Salmon;
+    background-color: Salmon;
 }
 .bg-darkSalmon {
-    color: DarkSalmon;
+    background-color: DarkSalmon;
 }
 .bg-lightsalmon {
-    color: LightSalmon;
+    background-color: LightSalmon;
 }
 .bg-lightcoral {
-    color: LightCoral;
+    background-color:: LightCoral;
 }
 .bg-navajowhite {
-    color: NavajoWhite;
+    background-color: NavajoWhite;
 }
 .bg-wheat {
-    color: Wheat;
+    background-color: Wheat;
 }
 .bg-tan {
-    color: Tan;
+    background-color: Tan;
 }
 .bg-rosybrown {
-    color: RosyBrown;
+    background-color: RosyBrown;
 }
 .bg-sandybrown {
-    color: SandyBrown;
+    background-color: SandyBrown;
 }
 .bg-turquoise {
-    color: Turquoise;
+    background-color: Turquoise;
 }
 .bg-mediumturquoise {
-    color: MediumTurquoise;
+    background-color: MediumTurquoise;
 }
 .bg-darkturquoise {
-    color: DarkTurquoise;
+    background-color: DarkTurquoise;
 }
 .bg-cadetblue{
-    color: CadetBlue;
+    background-color: CadetBlue;
 }
 .bg-steelblue{
-    color: SteelBlue;
+    background-color: SteelBlue;
 }
 .bg-slategrey {
-    color: SlateGrey;
+    background-color: SlateGrey;
 }
 .bg-dimgray {
-    color: DimGray;
+    background-color: DimGray;
 }
 .text-bulue-respaberry{
   background: linear-gradient( #00b4db, #0083b0); 
 }
-
 .text-epresso{
     background: linear-gradient(  #ad5389, #3c1053 ); 
 }
 .text-bighead{
-    background: linear-gradient(  #c94b4b, #4b134f);}  
+    background: linear-gradient(  #c94b4b, #4b134f);  
 }
 .text-argon{
     background: linear-gradient(  #03001e, #7303c0,#ec38bc,#fdeff9 );  
@@ -525,7 +523,6 @@
 .text-netflix{
     background: linear-gradient(  #8E0E00, #1F1C18);  
 }
-
 .bg-epresso{
     background: linear-gradient(  #ad5389, #3c1053 ); 
 }
