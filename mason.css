@@ -4,88 +4,87 @@
     font-size: 10px;
 }
 .font-s-2{
-    font-size: 20px;
+    font-size: 12px;
 }
 .font-s-3{
-    font-size: 30px;
+    font-size: 14px;
 }
 .font-s-4{
-    font-size: 40px;
+    font-size: 16px;
 }
 .font-s-5{
-    font-size: 50px;
+    font-size: 18px;
 }
 .font-s-6{
-    font-size: 60px;
+    font-size: 20px;
 }
 .font-s-7{
-    font-size: 70px;
+    font-size: 22px;
 }
 .font-s-8{
-    font-size: 80px;
+    font-size: 24px;
 }
 .font-s-9{
-    font-size: 90px;
+    font-size: 26px;
 }
 .font-s-10{
-    font-size: 100px;
+    font-size: 28px;
 }
 .font-s-11{
-    font-size: 110px;
+    font-size: 30px;
 }
 .font-s-12{
-    font-size: 120px;
+    font-size: 32px;
 }
 .font-s-13{
-    font-size: 130px;
+    font-size: 34px;
 }
 .font-s-14{
-    font-size: 140px;
+    font-size: 36px;
 }
 .font-s-15{
-    font-size: 150px;
+    font-size: 38px;
 }
 .font-s-16{
-    font-size: 160px;
+    font-size: 40px;
 }
 .font-s-17{
-    font-size: 170px;
+    font-size: 42px;
 }
 .font-s-18{
-    font-size: 180px;
+    font-size: 44px;
 }
 .font-s-19{
-    font-size: 190px;
+    font-size: 48px;
 }
 .font-s-20{
-    font-size: 200px;
+    font-size: 50px;
 }
-/* ---------------- */
 
-/* -------- m1== margin 10px 10px 10px 10px --------- */
+/* -------- m1== margin 10px  --------- */
 .m1{
-    margin: 10px 10px 10px 10px ;
+    margin: 10px ;
 }
 .m2{
-    margin: 20px 20px 20px 20px ;
+    margin: 20px  ;
 }
 .m3{
-    margin: 30px 30px 30px 30px ;
+    margin: 30px  ;
 }
 .m4{
-    margin: 40px 40px 40px 40px ;
+    margin: 40px  ;
 }
 .m5{
-    margin: 50px 50px 50px 50px ;
+    margin: 50px  ;
 }
 .m6{
-    margin: 60px 60px 60px 60px ;
+    margin: 60px  ;
 }
 .m7{
-    margin: 70px 70px 70px 70px ;
+    margin: 70px ;
 }
 .m8{
-    margin: 80px 80px 80px 80px ;
+    margin: 80px  ;
 }
 
 /* --- m-l-1== margin-left 10px */
@@ -119,7 +118,7 @@
 .m-l-10{
     margin-left: 100px;
 }
-/* ---m-r-1== margin-right 10px */
+/* -------m-r-1== margin-right 10px------- */
 
 .m-r-1{
     margin-right: 10px;
@@ -152,7 +151,7 @@
     margin-right: 100px;
 }
 
-/* ---m-t-1 == margin-top 10px */
+/* -------m-t-1 == margin-top 10px------- */
 
 .m-t-1{
     margin-top: 10px;
@@ -184,8 +183,8 @@
 .m-t-10{
     margin-top:  100px;
 }
-/* ----m-b-1 == maring-bottom 10px------ */
 
+/* ------m-b-1 == maring-bottom 10px------ */
 
 .m-b-1{
     margin-bottom: 10px;
@@ -217,33 +216,33 @@
 .m-b-10{
     margin-bottom: 100px;
 }
-/* -----p1 = padding 10px 10px 10px 10px ------ */
+/* -----p1 = padding 10px ------ */
 .p1{
-    padding: 10px 10px 10px 10px ;
+    padding: 10px  ;
 }
 .p2{
-    padding: 20px 20px 20px 20px ;
+    padding: 20px  ;
 }
 .p3{
-    padding: 30px 30px 30px 30px ;
+    padding: 30px  ;
 }
 .p4{
-    padding: 40px 40px 40px 40px ;
+    padding: 40px  ;
 }
 .p5{
-    padding: 50px 50px 50px 50px ;
+    padding: 50px  ;
 }
 .p6{
-    padding: 60px 60px 60px 60px ;
+    padding: 60px  ;
 }
 .p7{
-    padding: 70px 70px 70px 70px ;
+    padding: 70px  ;
 }
 .p8{
-    padding: 80px 80px 80px 80px ;
+    padding: 80px  ;
 }
 
-/* --- p-l-1== padding-left 10px */
+/* ------ p-l-1== padding-left 10px ------*/
 .p-l-1{
     padding-left: 10px;
 }
@@ -275,7 +274,7 @@
     padding-left: 100px;
 }
 
-/* ---p-r-1== padding-right 10px */
+/* ------p-r-1== padding-right 10px-------- */
 
 .p-r-1{
     padding-right: 10px;
@@ -308,7 +307,7 @@
     padding-right: 100px;
 }
 
-/* ---p-t-1 == padding-top 10px */
+/* -------p-t-1 == padding-top 10px------ */
 
 .p-t-1{
     padding-top: 10px;
@@ -341,9 +340,7 @@
     padding-top:  100px;
 }
 
-
-/* ----p-b-1 == padding-bottom 10px------ */
-
+/* -------p-b-1 == padding-bottom 10px------ */
 
 .p-b-1{
     padding-bottom: 10px;
@@ -487,41 +484,43 @@
 .bg-dimgray {
     background-color: DimGray;
 }
+/* ---------Liner-gradien color------ */
+
 .text-bulue-respaberry{
-  background: linear-gradient( #00b4db, #0083b0); 
+    color: linear-gradient( #00b4db, #0083b0); 
 }
 .text-epresso{
-    background: linear-gradient(  #ad5389, #3c1053 ); 
+    color: linear-gradient(  #ad5389, #3c1053 ); 
 }
 .text-bighead{
-    background: linear-gradient(  #c94b4b, #4b134f);  
+    color: linear-gradient(  #c94b4b, #4b134f);  
 }
 .text-argon{
-    background: linear-gradient(  #03001e, #7303c0,#ec38bc,#fdeff9 );  
+    color:: linear-gradient(  #03001e, #7303c0,#ec38bc,#fdeff9 );  
 }
 .text-crimson-tide{
-    background: linear-gradient(  #642B73, #C6426E );  
+    color: linear-gradient(  #642B73, #C6426E );  
 }
 .text-meridian{
-    background: linear-gradient(  #283c86, #45a247 );  
+    color: linear-gradient(  #283c86, #45a247 );  
 }
 .text-crytal-clear{
-    background: linear-gradient(  #159957, #155799 );  
+    color: linear-gradient(  #159957, #155799 );  
 }
 .text-celestial{
-    background: linear-gradient(  #C33764, #1D2671 );  
+    color: linear-gradient(  #C33764, #1D2671 );  
 }
 .text-under-the-lake{
-    background: linear-gradient(  #093028, #237A57);  
+    color: linear-gradient(  #093028, #237A57);  
 }
 .text-love-couple{
-    background: linear-gradient(  #3a6186, #89253e);  
+    color: linear-gradient(  #3a6186, #89253e);  
 }
 .text-royal{
-    background: linear-gradient(  #141E30, #243B55);  
+    color: linear-gradient(  #141E30, #243B55);  
 }
 .text-netflix{
-    background: linear-gradient(  #8E0E00, #1F1C18);  
+    color: linear-gradient(  #8E0E00, #1F1C18);  
 }
 .bg-epresso{
     background: linear-gradient(  #ad5389, #3c1053 ); 
