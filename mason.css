@@ -60,6 +60,64 @@
 .font-s-20{
     font-size: 50px;
 }
+/* ---mx = margin left and margin right--- */
+.mx-1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mx-2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.mx-3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.mx-4{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.mx-5{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mx-6{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* ---my = margin top and margin bottom--- */
+.my-1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.my-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.my-3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.my-4{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.my-5{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.my-6{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.my-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 /* -------- m1== margin 10px  --------- */
 .m1{
@@ -216,7 +274,71 @@
 .m-b-10{
     margin-bottom: 100px;
 }
+
+/* ---px = padding left and padding right----- */
+
+.px-1{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.px-2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.px-3{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.px-4{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.px-5{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.px-6{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.px-auto{
+    padding-left: auto;
+    padding-right: auto;
+}
+
+/* -----py = padding top and padding bottom----- */
+
+.py-1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.py-2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.py-3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.py-4{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.py-5{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.py-6{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.py-auto{
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
 /* -----p1 = padding 10px ------ */
+
 .p1{
     padding: 10px  ;
 }
@@ -243,6 +365,7 @@
 }
 
 /* ------ p-l-1== padding-left 10px ------*/
+
 .p-l-1{
     padding-left: 10px;
 }
